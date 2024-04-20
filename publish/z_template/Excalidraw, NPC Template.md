@@ -21,7 +21,7 @@ Quests: ^JzT56uRJ
 
 # Embedded files
 d037224dbf6e7322af65aee8db644d1b06ce503f: [[phb_background.jpg]]
-42644d3d10c2e6d175197ca2e2850b2168efdeb0: [[remote-git/publish/z_assest/NPC image's/Whispering Snow.png]]
+42644d3d10c2e6d175197ca2e2850b2168efdeb0: [[Whispering Snow image.png]]
 
 %%
 # Drawing
