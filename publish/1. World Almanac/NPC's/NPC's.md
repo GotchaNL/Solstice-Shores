@@ -1,3 +1,3 @@
 # Main characters:
 
-### [[Whispering Snow Page|Whispering Snow]]
+### [[Whispering Snow|Whispering Snow]]
