@@ -5,5 +5,5 @@ excerpt: Homepage
 # [[World Almanac]]
 # [[Player characters]]
 
-# [[missin]]
+# [[Mission Log]]
 # [[Links & Files]] 
