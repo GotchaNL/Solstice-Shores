@@ -1,0 +1,1 @@
+![[remote-git/publish/z_DM/1. World Almanac/NPC's/Whispering Snow.png]]

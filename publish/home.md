@@ -3,6 +3,7 @@ title: Solstice Shores
 excerpt: Homepage
 ---
 # [[World Almanac]]
-# [[Players]]
+# [[Player characters]]
 
+# [[missin]]
 # [[Links & Files]] 
