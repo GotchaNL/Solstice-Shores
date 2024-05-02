@@ -1,1 +1,1 @@
-# [[Session 0]]
+# [[remote-git/publish/3. Mission Log/Sessions/Session 0]]
