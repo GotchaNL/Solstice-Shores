@@ -5,10 +5,10 @@
 
 
 ##### *Character overview*
-- [[Dinrah Naboris]]
-- [[Shacius Starwater]]
-- [[Komale M'baku]]
-- [[Prancer]]
+- 
+- 
+- 
+- 
 
 ##### *NPCs*
 - 

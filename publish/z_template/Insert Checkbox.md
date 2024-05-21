@@ -4,7 +4,7 @@
 - [-] Dropped
 - [>] Forward
 - [D] Defer
-- [?] Question
+- [ ] Question
 - [/] Half
 - [+] Add
 - [R] Research
@@ -13,7 +13,7 @@
 - [B] Brainstorm
 - [P] Pro
 - [C] Con
-- [Q] Quote
+- [x] Quote
 - [N] Note
 - [B] Bookmark
 - [I] Info

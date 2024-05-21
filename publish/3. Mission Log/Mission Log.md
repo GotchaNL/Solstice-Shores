@@ -1,1 +1,2 @@
-# [[remote-git/publish/3. Mission Log/Sessions/Session 0]]
+- [[Recruitment, S1 E0]]
+- [[Voyage to the Unknown, S1 E0.5]]

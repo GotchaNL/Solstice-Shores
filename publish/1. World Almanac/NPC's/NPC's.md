@@ -1,3 +1,3 @@
 # Main characters:
 
-### [[Whispering Snow|Whispering Snow]]
+### [[Whispering Snow ipage.png|Whispering Snow]]
