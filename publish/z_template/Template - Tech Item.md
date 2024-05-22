@@ -1,6 +1,6 @@
 
 ## Overview
-**Type**: Magic Item
+**Type**: Tech Item
 
 **Group**: Wondrous Items
 

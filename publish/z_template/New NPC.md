@@ -1,19 +1,10 @@
 
 ## Overview
-**Alignment**: Neutral
 
-**Gender**: Male
-
-**Race**: Human
-
-**Class**: Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard, Other, None
-
-**Age**: Adult
-
-**Character Role**: Friend, Adversary, Neutral, Main Character, Supporting Character, Possible Rival, Possible Romance
+| **Gender**: Female<br>**Tribe**: Banuk<br>**Class**: Rogue<br>**Age**: Adult<br>**Character Role**: <br>Main Character | ![[ImagePlaceholder.png]] |
+| :--------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 
 **State:** 
-
 ## Profile
 **Appearance Traits**: Stylish, Ugly, Beautiful, Diminutive, Dishevelled, Filthy, Flabby, Hulking, Muscular, Ornate, Pristine, Slender, Tasteless, Towering, Unadorned
 
@@ -29,10 +20,7 @@
 
 **Physical Traits**: Clumsy, Quick, Weak, Conspicuous, Fragile, Graceful, Ponderous, Stealthy, Strong, Tough
 
-| STR | DEX | CON | WIS | INT | CHA |
-|---|---|---|---|---|---|
-| 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) |
-
 ## Story
 
 
+## Goals
