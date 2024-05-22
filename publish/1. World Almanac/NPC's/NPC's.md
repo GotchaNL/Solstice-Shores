@@ -1,3 +1,5 @@
 # Main characters:
 
-### [[Whispering Snow ipage.png|Whispering Snow]]
+#### [[Flint Shellbreaker]]
+#### [[Whispering Snow]]
+#### [[Stalwart Ironslinger]]

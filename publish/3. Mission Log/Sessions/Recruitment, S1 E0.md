@@ -25,9 +25,9 @@ Your task is to set up base on the island, exploring the surroundings, catalogue
 
 ## Who Did They Meet?
  
-- Flint Shellbreaker
+- [[Flint Shellbreaker]]
 - [[Whispering Snow ipage.png|Whispering Snow]]
-- Stalwart Ironslinger
+- [[Stalwart Ironslinger]]
  
 ## Items of Importance
  
