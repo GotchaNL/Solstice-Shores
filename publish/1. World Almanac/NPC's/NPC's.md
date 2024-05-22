@@ -1,5 +1,5 @@
 # Main characters:
 
-#### [[Flint Shellbreaker]]
-#### [[Whispering Snow]]
-#### [[Stalwart Ironslinger]]
+- #### [[Flint Shellbreaker]]
+- #### [[Whispering Snow]]
+- #### [[Stalwart Ironslinger]]

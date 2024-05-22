@@ -1,1 +1,3 @@
 # [[NPC's]]
+# [[Machines]]
+# [[Maps]]
