@@ -9,6 +9,8 @@ Encountered in:
 
 ##### Abilities:
 
+##### Components
+##### Loot:
 ## Story
 
 ##### Background: 

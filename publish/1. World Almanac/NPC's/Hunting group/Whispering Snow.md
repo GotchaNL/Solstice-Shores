@@ -1,8 +1,10 @@
-| **Gender**: <br>**Tribe**: <br>**Class**: <br>**Age**: <br>Height:<br>Weight: | ![[ImagePlaceholder.png]] |
-| :---------------------------------------------------------------------------- | ------------------------- |
+
+| **Gender**: Female <br>**Tribe**: Banuk<br>**Class**: Rogue<br>**Age**: 32<br>Height: 167 cm<br>Weight: 55 kg | ![[Whispering Snow image.png\|300]] |
+| :------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+##### State: 
 ## Profile
 ##### Description:
-A stoic figure from the icy tundra's of the Banuk Tribe.
+
 ##### Ideals: 
 
 ##### Bonds: 
@@ -10,12 +12,12 @@ A stoic figure from the icy tundra's of the Banuk Tribe.
 ##### Flaws: 
 
 ##### Appearance Traits: 
-Stylish, Ugly, Beautiful, Diminutive, Dishevelled, Filthy, Flabby, Hulking, Muscular, Ornate, Pristine, Slender, Tasteless, Towering, Unadorned
+Slender, Unadorned
 ##### Social Traits: 
-Bossy, Cruel, Dependable, Dishonest, Friendly, Generous, Helpful, Honest, Impartial, Loyal, Peaceful, Quiet, Secretive, Selfish, Stingy, Suspicious, Talkative, Tolerant, Trusting, Unfriendly, Selfless, Deferential, Demanding, Forthcoming, Intolerant, Lenient, Uncooperative, Unfair, Unfaithful, Unreliable, Violent
+Helpful, Quiet, Forthcoming
 
 ##### Personality Traits: 
-Reserved, introspective, and fiercely independent
+Anxious, Calm, Charming, Cheerful, Childish, Energetic, Enthusiastic, Funny, Gentle, Humble, Impolite, Mature, Optimistic, Pessimistic, Proud, Respectful, Sensitive, Eccentric, Smooth, Articulate, Subtle, Apathetic, Awkward, Caring, Depressed, Dull, Humourless, Incoherent, Listless, Overt, Repulsive, Savvy, Thick-skinned, Wrathful, Cold, Naïve
 
 ##### Mental Traits: 
 Ambitious, Cautious, Complacent, Courageous, Cowardly, Decisive, Impatient, Independent, Intelligent, Religious, Skilful, Stupid, Superstitious, Tenacious, Adaptive, Analytical, Creative, Patient, Perceptive, Conformist, Emotional, Inattentive, Incompetent, Indecisive, Reckless, Secular, Sceptical, Uninventive
