@@ -1,7 +1,7 @@
 
 ## Session Overview 
  
-Looking for Explorers![[Looking for Explorers.png]]
+Looking for Explorers![[Looking for Explorers.png|right]]
 ### The meeting and challenge
 
 Everybody has gathered in a big group of hunters at the location of a test to join the expedition.
