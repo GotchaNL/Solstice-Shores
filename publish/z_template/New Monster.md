@@ -1,6 +1,12 @@
-| **Type**: <br>Hp:<br>AC:<br>Speed:<br>Killed: <br> | ![[ImagePlaceholder.png\|300]] |
-| -------------------------------------------------- | ------------------------------ |
-| Encountered in:                                    |                                |
+![[ImagePlaceholder.png|300]]
+**Type**: 
+Hp:
+AC:
+Speed:
+Killed: 
+
+| Encountered in: |     |
+| :-------------- | :-- |
 ## Data
 ##### Description:
 

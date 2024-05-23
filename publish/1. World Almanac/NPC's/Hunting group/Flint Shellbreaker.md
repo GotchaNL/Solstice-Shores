@@ -1,5 +1,10 @@
-| **Gender**: Male <br>**Tribe**: Carja<br>**Class**: Ranger<br>**Age**: 36<br>Height: 188 cm<br>Weight: 91 kg | ![[Flint Shellbreaker image.png\|300]] |
-| :----------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+![[Flint Shellbreaker image.png|300]]
+**Gender**: Male 
+**Tribe**: Carja
+**Class**: Ranger
+**Age**: 36
+Height: 188 cm
+Weight: 91 kg
 ## Profile
 ##### Description:
 

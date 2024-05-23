@@ -1,5 +1,11 @@
-| **Gender**: <br>**Tribe**: <br>**Class**: <br>**Age**: <br>Height:<br>Weight: | ![[ImagePlaceholder.png\|300]] |
-| :---------------------------------------------------------------------------- | ------------------------------ |
+![[ImagePlaceholder.png|300]]
+
+**Gender**: 
+**Tribe**: 
+**Class**: 
+**Age**: 
+Height:
+Weight:
 ## Profile
 ##### Description:
 

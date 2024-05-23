@@ -1,6 +1,10 @@
-
-| **Gender**: Female <br>**Tribe**: Banuk<br>**Class**: Rogue<br>**Age**: 32<br>Height: 167 cm<br>Weight: 55 kg | ![[Whispering Snow image.png\|300]] |
-| :------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
+![[Whispering Snow image.png|300]]
+**Gender**: Female 
+**Tribe**: Banuk
+**Class**: Rogue
+**Age**: 32
+Height: 167 cm
+Weight: 55 kg
 ## Profile
 ##### Description:
 A stoic figure from the icy tundra's of the Banuk Tribe.
