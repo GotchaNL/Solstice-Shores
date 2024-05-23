@@ -16,8 +16,7 @@
 **Population**: 
 
 ## Map
-![[z. Assets/Misc/MapPlaceholder.png|Placeholder Map]]
-[[z. Assets/Misc/MapPlaceholder.png|open outside]]
+
 
 ## Notable NPCs
 

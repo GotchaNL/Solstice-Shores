@@ -9,8 +9,7 @@
 **Attunement**: 
 
 ### Placeholder Picture
-![[z_template/ImagePlaceholder.png|Placeholder Picture]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[ImagePlaceholder.png]]
 
 ## Description
 

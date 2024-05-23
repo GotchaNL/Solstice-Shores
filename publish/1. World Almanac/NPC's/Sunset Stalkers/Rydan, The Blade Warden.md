@@ -1,10 +1,10 @@
-![[ImagePlaceholder.png|300]]
-**Gender**: 
-**Tribe**: 
-**Class**: 
-**Age**: 
-Height:
-Weight:
+![[Rydan, the Blade Warden image.png|300]]
+**Gender**: Male
+**Tribe**: Quen
+**Class**: Bard
+**Age**: 28
+Height: 188 cm
+Weight: 86 kg
 ## Profile
 ##### Description:
 
