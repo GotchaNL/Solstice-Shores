@@ -2,13 +2,13 @@
 
 #### Echo Trail Blazers
 -  [[Flint Shellbreaker]]
- -  [[Stalwart Ironslinger]]
 -  [[Whispering Snow]]
+-  [[Stalwart Ironslinger]]
 ### Sunset Stalkers
-- [[Liana, the Sandstalker]]
+- [[Eirik Thundershot]]
 - [[Rydan, The Blade Warden]]
 - [[Talanah, the Suntalon]]
 ### The Metal Trackers
-- [[Eirik Thundershot]]
+- [[Liana, the Sandstalker]]
 - [[Petra, the Salvagemaster]]
 - [[Thane Earthcaller]]
