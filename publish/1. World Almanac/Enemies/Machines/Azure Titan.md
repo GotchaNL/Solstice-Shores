@@ -14,7 +14,7 @@ Killed: 1
 
 ##### Abilities:
 
-##### Components
+##### Components:
 ##### Loot:
 ## Story
 
