@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "4c07de0433de020e",
+    "type": "split",
+    "children": [
+      {
+        "id": "629e6eb443f8cac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6308ad0632fa4082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "publish/3. Mission Log/Sessions/Voyage to the Unknown, S1 E0.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "56056daf638945a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "215e7a9645693c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remote-git/publish/z_DM/1. World Almanac/Session Prep/Session 0.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c9e32f293551b76",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c6ea1ff3585fa9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445a65395ed64064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "453ce01e72be387d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab39c74df1002f1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "right": {
+    "id": "7d62c4f0f07b5173",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30b74fee9e96d0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52503c74cc93657a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "publish/3. Mission Log/Sessions/Voyage to the Unknown, S1 E0.5.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "516601d807308601",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "publish/3. Mission Log/Sessions/Voyage to the Unknown, S1 E0.5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92e37da23ee4a8d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d23703ed953d6b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "publish/3. Mission Log/Sessions/Voyage to the Unknown, S1 E0.5.md"
+              }
+            }
+          },
+          {
+            "id": "e32840f5dffdba3e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6308ad0632fa4082",
+  "lastOpenFiles": [
+    "remote-git/publish/z_DM/1. World Almanac/Session Prep/Session 0.5.md",
+    "publish/3. Mission Log/Sessions/Voyage to the Unknown, S1 E0.5.md",
+    "publish/3. Mission Log/Mission Log.md",
+    "remote-git/publish/3. Mission Log/Sessions/Voyage to the Unknown, S1 E0.5.md",
+    "styles/additional-styles/utils.css",
+    "styles/index.css",
+    "styles/additional-styles",
+    "styles",
+    "public/assets/blog/hello-world/cover.jpg",
+    "public/assets/blog/preview/cover.jpg",
+    "public/assets/blog/authors/tim.jpeg",
+    "public/assets/blog/authors/joe.jpeg",
+    "public/assets/blog/authors/jj.jpeg",
+    "public/assets/blog/dynamic-routing/cover.jpg",
+    "public/assets/blog/hello-world",
+    "public/assets/blog/preview",
+    "public/assets/blog/authors",
+    "public/assets/blog/dynamic-routing",
+    "public/favicon/site.webmanifest",
+    "public/favicon/mstile-150x150.png",
+    "public/favicon/safari-pinned-tab.svg",
+    "public/favicon/favicon.ico",
+    "public/favicon/favicon-32x32.png",
+    "public/favicon/favicon-16x16.png",
+    "common_md/works-out-of-the-box-with-markdown-files.md",
+    "common_md/update-publish-settings-github-actions.md",
+    "common_md/statically-generated.md",
+    "common_md/get-project-id-account-id-and-token-vercel.md",
+    "common_md/connect-obsidian-vault-with-github.md",
+    "common_md/reinventing-the-wheel.md",
+    "common_md/deploy-a-custom-linked-blog-starter.md",
+    "common_md/publish-your-obsidian-notes-with-linked-blog-starter.md",
+    "common_md/linked-blog-starter-does-not-reinvent-wheel.md",
+    "common_md/install-linked-blog-starter-locally.md",
+    "common_md/home.md",
+    "common_md/accepted-markdown-metadata.md",
+    "README.md",
+    "publish/z_template/Template - Tech.md",
+    "publish/z_template/Template - Tech Item.md",
+    "publish/z_template/Template - Skill.md",
+    "publish/z_template/New Session Journal.md",
+    "publish/z_template/New Quest Line.md",
+    "publish/z_template/New Organization.md",
+    "publish/z_template/New NPC.md",
+    "publish/z_template/New Monster.md",
+    "publish/z_template/New Location.md"
+  ]
+}
