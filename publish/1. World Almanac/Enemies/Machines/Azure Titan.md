@@ -13,7 +13,7 @@ Killed: 1
 ##### Appearance: 
 
 ##### Abilities:
-
+Bite
 ##### Components:
 ##### Loot:
 ## Story
