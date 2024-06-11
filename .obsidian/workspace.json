@@ -11,8 +11,12 @@
             "id": "6308ad0632fa4082",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remote-git/publish/1. World Almanac/Maps/Maps.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -25,8 +29,12 @@
             "id": "215e7a9645693c66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "remote-git/publish/3. Mission Log/Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "remote-git/publish/3. Mission Log/Sessions/Session 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "remote-git/publish/3. Mission Log/Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "remote-git/publish/3. Mission Log/Sessions/Session 1.md"
+              }
             }
           },
           {
@@ -163,9 +175,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6308ad0632fa4082",
+  "active": "215e7a9645693c66",
   "lastOpenFiles": [
     "remote-git/publish/1. World Almanac/Maps/Maps.md",
+    "remote-git/publish/3. Mission Log/Sessions/Session 1.md",
     "remote-git/publish/3. Mission Log/Sessions/Voyage to the Unknown, S1 E0.5.md",
     "remote-git/publish/1. World Almanac/NPC's/The Metal Trackers/Thane Earthcaller.md",
     "remote-git/publish/z_DM/1. World Almanac/Session Prep/Session 0.5.md",
@@ -209,7 +222,6 @@
     "publish/z_template/Template - Skill.md",
     "publish/z_template/New Session Journal.md",
     "publish/z_template/New Quest Line.md",
-    "publish/z_template/New Organization.md",
-    "publish/z_template/New NPC.md"
+    "publish/z_template/New Organization.md"
   ]
 }
